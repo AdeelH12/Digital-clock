@@ -1,0 +1,34 @@
+* {
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+
+    background-image: linear-gradient(rgba(110, 110, 110, 0.90), rgba(146, 146, 146, 0.90)),
+    url(./img/ONGXW40.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+
+}
+
+.page-heading {
+
+    font-size: 20px;
+    text-align: center;
+    padding-top: 50px;
+}
+
+#time{
+
+    border: 3px solid black;
+    padding: 50px;
+    text-align: center;
+    color: #fff;
+    font-weight: bold;
+    margin-top: 50px;
+    font-size: 20px;
+}
